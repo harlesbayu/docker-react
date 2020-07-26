@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Harles Bayu Anggara
+          Harles Bayu
         </a>
       </header>
     </div>
